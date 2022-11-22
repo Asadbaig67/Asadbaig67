@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" heigth="100" src="https://im.ezgif.com/tmp/ezgif-1-b9cab1bbc7.gif">
+<img align="center" alt="Coding" width="1000" src="https://im.ezgif.com/tmp/ezgif-1-b9cab1bbc7.gif">
 
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A passionate full-stack developer and Computer Science Student</h3>
