@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="800" src="https://im4.ezgif.com/tmp/ezgif-4-b3a9357b8e.gif">
+<img align="right" alt="Coding" width="1000" heigth="500" src="https://im4.ezgif.com/tmp/ezgif-4-b3a9357b8e.gif">
 
 <h1 align="center">Hi 👋, I'm Asad</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate full-stack developer and Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadbaig67&label=Profile%20views&color=0e75b6&style=flat" alt="asadbaig67" /> </p>
 
