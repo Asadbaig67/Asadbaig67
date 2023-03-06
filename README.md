@@ -1,6 +1,11 @@
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Asad</h1>
-<h3 align="center">A passionate full-stack developer and Computer Science student</h3>
+<p align="center">
+  <a href="https://github.com/Asadbaig67"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
+  
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asadbaig67&label=Profile%20views&color=0e75b6&style=flat" alt="asadbaig67" />
