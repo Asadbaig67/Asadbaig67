@@ -1,14 +1,12 @@
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <p align="center">
-  <a href="https://github.com/Asadbaig67"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
+  <a href="https://github.com/Asadbaig67"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=61dafb&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
   
 </p>
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asadbaig67&label=Profile%20views&color=0e75b6&style=flat" alt="asadbaig67" />
+  <img src="https://komarev.com/ghpvc/?username=asadbaig67&label=Profile%20views&color=61dafb&style=for-the-badge" alt="asadbaig67" />
 </p>
 
 <p align="center">
@@ -18,12 +16,13 @@
 </p>
 
 <!-- About me -->
-- 🔭 I’m currently working on **MERN Stack** projects
-- 🌱 I’m currently learning **Express.js and Solidity**
+- 🔭 I’m currently working as a **Mern Stack Developer**
+- 🌱I’m currently learning **BlockChain**
 - 👯 I’m looking to collaborate on **open source projects**
-- 🤝 I’m looking for help with **Blockchain Development**
+- 🤝 I’m also looking to work and collaborate with other **Teach Enthusiasts** and **Developers**
 - 💬 Ask me about **MERN Stack and Blockchain Development**
 - 📫 How to reach me: **asadulhaq543@gmail.com**
+- 💎 Let's get connected!
 
 <!-- Social media and website links -->
 <h3 align="center">Connect with me:</h3>
@@ -45,30 +44,79 @@
 <!-- Skills and Tools -->
 <h2 align="center">🚀 Languages and Tools 🚀</h2>
 <p align="center">These are some of the languages and tools that I am familiar with and have worked with in the past. </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th>Front-End</th>
+        </tr>
+        <tr>
+          <td><a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,figma,html,js,jquery,materialui,nextjs,react,redux,ts,tailwind&perline=4" />
+          </a></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <th>Back-End</th>
+          <tr>
+            <td><a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=django,express,firebase,js,mongodb,nodejs,postgres,py&perline=4" />
+              </a>
+            </td>
+          </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <th>Languages</th>
+          <tr>
+            <td>
+              <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,jquery,py,ts,tailwind&perline=4" />
+              </a>
+            </td>
+          </tr> 
+      </table>
+    </td>
+    <td>
+      <table>
+        <th>Tools and Frameworks</th>
+        <tr>
+          <td>
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git,docker,angular,atom,aws,bash,bootstrap,django,express,firebase,figma,github,gcp,materialui,mongodb,nextjs,nodejs,postgres,react,redux&perline=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <th>Database</th>
+          <tr>
+            <td>
+              <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,mysql,graphql&perline=4" />
+              </td>
+          </tr>
+      </table>
+    </td>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbaig67&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=asadbaig67&show_icons=true&count_private=true&include_all_commits=true&line_height=24&theme=dark" alt="GitHub Stats"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadbaig67&theme=react&hide_border=true"/>
-<p/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbaig67&theme=dark" alt="GitHub Streaks"/>
-</p>
+
+<table>
+  <tr>
+    <th style="color: #61DAFb">Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img style="border-radius: 20px;" src="https://github-readme-stats.vercel.app/api?username=Asadbaig67&theme=react&show_icons=true&hide_border=true&count_private=true"/></td>
+    <td><a href="https://git.io/streak-stats"><img style="border-radius: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Asadbaig67&theme=react&hide_border=true"/></a></td>
+    <td><img style="border-radius: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbaig67&theme=react&show_icons=true&hide_border=true&layout=compact"/></td>
+  </tr>
+</table>
 
