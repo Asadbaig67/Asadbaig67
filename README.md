@@ -65,7 +65,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbaig67&layout=compact&langs_count=6&theme=dark" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=asadbaig67&show_icons=true&count_private=true&include_all_commits=true&line_height=24&theme=dark" alt="GitHub Stats"/>
 </p>
-
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadbaig67&theme=react&hide_border=true"/>
+<p/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbaig67&theme=dark" alt="GitHub Streaks"/>
 </p>
