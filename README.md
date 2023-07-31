@@ -106,6 +106,13 @@
     </td>
 </table>
 
+<h4 align="center">Isometric view of contributions in the last year</h4>
+
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
+  </a>
+</p>
 
 <table>
   <tr>
