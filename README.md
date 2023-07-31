@@ -42,78 +42,11 @@
 </p>
 
 <!-- Skills and Tools -->
-<h2 align="center">🚀 Languages and Tools 🚀</h2>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">These are some of the languages and tools that I am familiar with and have worked with in the past. </p>
-<table>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <th>Front-End</th>
-        </tr>
-        <tr>
-          <td><a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,figma,html,js,jquery,materialui,nextjs,react,redux,ts,tailwind&perline=4" />
-          </a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <th>Back-End</th>
-          <tr>
-            <td><a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=django,express,firebase,js,mongodb,nodejs,postgres,py&perline=4" />
-              </a>
-            </td>
-          </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <th>Languages</th>
-          <tr>
-            <td>
-              <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,jquery,py,ts,tailwind&perline=4" />
-              </a>
-            </td>
-          </tr> 
-      </table>
-    </td>
-    <td>
-      <table>
-        <th>Tools and Frameworks</th>
-        <tr>
-          <td>
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=git,docker,angular,atom,aws,bash,bootstrap,django,express,firebase,figma,github,gcp,materialui,mongodb,nextjs,nodejs,postgres,react,redux&perline=4" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <th>Database</th>
-          <tr>
-            <td>
-              <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,mysql,graphql&perline=4" />
-              </td>
-          </tr>
-      </table>
-    </td>
-</table>
-
-<h4 align="center">Isometric view of contributions in the last year</h4>
-
-<p align="center">
-  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
-  </a>
-</p>
-
+<img align="center"
+      src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,jquery,tailwind,materialui,nextjs,redux,firebase,postgres,mongodb,mysql,graphql,express,firebase,js,mongodb,nodejs,postgres,py,git,angular,atom,aws,bash,django,firebase,figma,github,gcp,nextjs,postgres,react&perline=17"
+    />
 <table>
   <tr>
     <th style="color: #61DAFb">Stats</th>
@@ -126,4 +59,14 @@
     <td><img style="border-radius: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbaig67&theme=react&show_icons=true&hide_border=true&layout=compact"/></td>
   </tr>
 </table>
+
+<h4 align="center">Isometric view of contributions in the last year</h4>
+
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
+  </a>
+</p>
+
+
 
