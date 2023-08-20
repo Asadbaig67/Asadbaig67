@@ -68,5 +68,6 @@
   </a>
 </p>
 
+<img width="900" src="./.github/workflows/contributions.png" alt="View of contributions in the last year">
 
 
